@@ -3,7 +3,7 @@
 - 🔭 I am currently working on '90s hardware emulation and midi drivers just for fun.
 - 🌱 I am currently learning whatever is cool from programming languages, data-structures, algorithm, devops, infrastructure, testing, performances
 
-![BRS](BRS.jfif "BlueRedSky")
+![alt text](./BRS.jfif "BlueRedSky")
 
 <!--
 **Raffaello/Raffaello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
