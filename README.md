@@ -1,3 +1,4 @@
+<!--
 ## Hi there 👋
 
 Hello,
@@ -17,6 +18,7 @@ data-structures, algorithm, devops, infrastructure, testing, performances,
 scientific computing, ...
 
 ## You can find me here
+-->
 
 <a href="https://www.linkedin.com/in/raffaellobertini/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 
