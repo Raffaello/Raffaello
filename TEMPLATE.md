@@ -28,7 +28,7 @@ scientific computing, ...
 
 ## Stats
 
-<!--GITHUB_REPOS:{"rows": 3, "raw": true, "sort":"updated"}-->
+<!--GITHUB_REPOS:{"rows": 3, "raw": true, "sort":"pushed"}-->
 
 <!--
 ![Raffaello's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffaello&show_icons=true&theme=radical)
