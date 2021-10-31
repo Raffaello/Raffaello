@@ -28,11 +28,9 @@ scientific computing, ...
 
 ## Stats
 
-|*|Stars|Repo|Description|
-|---|---|---|---|
-| 📦 | 0 | [Raffaello/Raffaello](https://github.com/Raffaello/Raffaello) | profile repo |
-| 📦 | 0 | [Raffaello/hw-bdd-tdd-cycle](https://github.com/Raffaello/hw-bdd-tdd-cycle) | null |
-| 📦 | 0 | [Raffaello/scummvm](https://github.com/Raffaello/scummvm) | ScummVM main repository |
+⭐️ 0 📦 Raffaello/Raffaello
+⭐️ 0 📦 Raffaello/hw-bdd-tdd-cycle
+⭐️ 0 📦 Raffaello/scummvm
 
 <!--
 ![Raffaello's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffaello&show_icons=true&theme=radical)
