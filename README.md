@@ -4,13 +4,11 @@ Hello,
 
 This is Raffaello's GitHub.
 
-----
 
 ## 🔭 I am currently having fun with
 
 - '90s hardware sound-card emulation.
 
-----
 
 ## 🌱 I am currently learning
 
@@ -18,13 +16,10 @@ This is Raffaello's GitHub.
 data-structures, algorithm, devops, infrastructure, testing, performances,
 scientific computing, ...
 
-----
-
 ## You can find me here
 
 <a href="https://www.linkedin.com/in/raffaellobertini/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 
-----
 
 <!--
 ## Stats
