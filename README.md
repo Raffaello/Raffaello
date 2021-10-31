@@ -26,11 +26,8 @@ scientific computing, ...
 
 ----
 
+<!--
 ## Stats
-
-⭐️ 0 📦 Raffaello/Raffaello
-⭐️ 0 📦 Raffaello/hw-bdd-tdd-cycle
-⭐️ 0 📦 Raffaello/scummvm
 
 <!--
 ![Raffaello's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffaello&show_icons=true&theme=radical)
