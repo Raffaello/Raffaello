@@ -1,26 +1,38 @@
-### Hi there 👋
+## Hi there 👋
 
-(Experimental profile readme, I am not sure i will keep it up-to-date manually ;)
+Hello,
 
-### 🔭 I am currently having fun with
+This is Raffaello's GitHub.
+
+----
+
+## 🔭 I am currently having fun with
 
 - '90s hardware sound-card emulation.
 
+----
 
-### 🌱 I am currently learning
+## 🌱 I am currently learning
 
 - everything: from programming languages, 
 data-structures, algorithm, devops, infrastructure, testing, performances,
 scientific computing, ...
 
-### You can find me here
+----
+
+## You can find me here
 
 <a href="https://www.linkedin.com/in/raffaellobertini/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 
+----
 
-### Stats
+## Stats
 
-<!--GITHUB_REPOS:{"rows": 3, "raw": false, "sort":"updated"}-->
+|*|Stars|Repo|Description|
+|---|---|---|---|
+| 📦 | 0 | [Raffaello/Raffaello](https://github.com/Raffaello/Raffaello) | profile repo |
+| 📦 | 0 | [Raffaello/hw-bdd-tdd-cycle](https://github.com/Raffaello/hw-bdd-tdd-cycle) | null |
+| 📦 | 0 | [Raffaello/scummvm](https://github.com/Raffaello/scummvm) | ScummVM main repository |
 
 <!--
 ![Raffaello's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffaello&show_icons=true&theme=radical)
