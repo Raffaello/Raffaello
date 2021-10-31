@@ -1,9 +1,39 @@
 ### Hi there 👋
 
-(Experimental profile readme, not sure it will be up-to-date)
+(Experimental profile readme, I am not sure i will keep it up-to-date manually ;)
 
-- 🔭 I am currently working on '90s hardware emulation and midi drivers just for fun.
-- 🌱 I am currently learning whatever is cool from programming languages, data-structures, algorithm, devops, infrastructure, testing, performances
+### 🔭 I am currently having fun with
+
+- '90s hardware sound-card emulation.
+
+
+### 🌱 I am currently learning
+
+- everything: from programming languages, 
+data-structures, algorithm, devops, infrastructure, testing, performances,
+scientific computing, ...
+
+### You can find me here
+
+<a href="https://www.linkedin.com/in/raffaellobertini/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
+
+<!--
+### Stats
+
+![Raffaello's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffaello&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Raffaello&layout=compact&langs_count=20&hide=html,ActionScript,XML&theme=radical)
+
+
+### My latest projects
+
+<a href="https://github.com/Raffaello/codestats-profile-readme">
+  <img align="middle" src="https://github-readme-stats.vercel.app/api/pin/?username=Raffaello&repo=sdl2-sonic-drivers" alt="codestats-profile-readme" />
+</a>
+
+-->
+
 
 <!-- 
 ![alt text](./BRS.jfif "BlueRedSky")
