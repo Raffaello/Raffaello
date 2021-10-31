@@ -17,9 +17,12 @@ scientific computing, ...
 
 <a href="https://www.linkedin.com/in/raffaellobertini/"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="30px" alt="linkedin"></a>
 
-<!--
+
 ### Stats
 
+<!--GITHUB_REPOS:{"rows": 3, "raw": false, "sort":"updated"}-->
+
+<!--
 ![Raffaello's GitHub stats](https://github-readme-stats.vercel.app/api?username=raffaello&show_icons=true&theme=radical)
 
 
